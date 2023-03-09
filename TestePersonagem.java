@@ -1,3 +1,5 @@
+//Cabe as classes manterem a consistência do estado(valores das variáveis de instância) de seus objetos.
+
 public class TestePersonagem {
     public static void main(String[] args){
         //Construindo um objeto abaixo.
