@@ -10,7 +10,7 @@ public class Personagem{
 
     //Isso é um método de instância.
     void cacar(){
-        System.out.println(nome + " caçando");
+        System.out.println(nome + " cacando");
     }
 
     void comer(){
